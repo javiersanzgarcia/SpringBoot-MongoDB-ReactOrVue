@@ -1,5 +1,9 @@
 # SpringBoot-MongoDB-React
 
+<h3>Requirements:</h4>
+
+MongoDB started, SpringBoot application launched to publish the REST API and UI Application should be launch with npm start (previously npm install)
+
 <h3>List of Endpoints:</h3>
 
 <b>Create Book Rest API - Post HTTP Request:</b>
