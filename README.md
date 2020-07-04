@@ -1,6 +1,6 @@
 # SpringBoot-MongoDB-React
 
-Create Book Rest API - Post HTTP Request:
+<b>Create Book Rest API - Post HTTP Request:</b>
 
 - http://localhost:8080/api/v1/books
 
@@ -10,7 +10,7 @@ Create Book Rest API - Post HTTP Request:
 "collection" : "Warbreaker series"
 }
 
-Update Book Rest API - PUT HTTP Request:
+<b>Update Book Rest API - PUT HTTP Request:</b>
 
 - http://localhost:8080/api/v1/books/4
 
@@ -20,14 +20,14 @@ Update Book Rest API - PUT HTTP Request:
 "collection" : "Warbreaker FANCY series"
 }
 
-Delete Book Rest API - Delete HTTP Request
+<b>Delete Book Rest API - Delete HTTP Request:</b>
 
 - http://localhost:8080/api/v1/books/4
 
-Get Book Rest API - Get HTTP Request
+<b>Get Book Rest API - Get HTTP Request:</b>
 
 - http://localhost:8080/api/v1/books/4
 
-Get All Books Rest API - Get HTTP Request
+<b>Get All Books Rest API - Get HTTP Request:</b>
 
 - http://localhost:8080/api/v1/books
