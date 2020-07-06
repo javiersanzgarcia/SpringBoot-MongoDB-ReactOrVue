@@ -2,7 +2,7 @@
 
 <h3>Requirements:</h4>
 
-MongoDB started, SpringBoot application launched to publish the REST API and UI Application should be launch with npm start (previously npm install)
+MongoDB started, SpringBoot application launched to publish the REST API and UI Application (previously npm install in both applications) should be launch with "npm start" for React App and "npm run server" for Vue App.
 
 <h3>List of Endpoints:</h3>
 
